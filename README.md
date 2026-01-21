@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi, I'm Rose
 
-<!--
-**rosenguyen2107/rosenguyen2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analytics & Quantitative Economics** student at Dickinson College, interested in applying data to understand user behavior, business performance, and real-world decision making.
 
-Here are some ideas to get you started:
+I enjoy working on projects involving:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data cleaning & exploration
+* Funnel & behavioral analysis
+* Business and product insights
+* Predictive modeling & visualization
+
+### Tech Stack
+
+* Python, SQL
+* Power BI, Excel
+* Pandas, NumPy, Scikit-learn
+* Econometrics & Statistical Modeling
+
+### Featured Projects
+
+* **U.S. Housing Affordability & Homeownership Funnel** – End-to-end pipeline analyzing income, savings, mortgage access, and ownership across U.S. states.
+* **[Project name]** – Short one-line description of impact.
